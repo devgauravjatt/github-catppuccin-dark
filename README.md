@@ -4,4 +4,5 @@
 
 ## 🖼 Preview
 
-![preview](./preview.png)
+![preview](./images/preview2.png)
+![preview](./images/preview.png)

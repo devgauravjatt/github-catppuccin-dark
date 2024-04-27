@@ -2,7 +2,7 @@
 	"name": "github-catppuccin-dark",
 	"displayName": "Github Catppuccin Dark",
 	"description": "A batter dark theme for vscode, with Github + catppuccin",
-	"icon": "icon.png",
+	"icon": "./images/icon.png",
 	"version": "0.0.1",
 	"publisher": "DevGauravJatt",
 	"engines": {
