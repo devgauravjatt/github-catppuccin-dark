@@ -1,0 +1,22 @@
+{
+	"name": "github-catppuccin-dark",
+	"displayName": "dark pro gd",
+	"description": "hi ",
+	"icon": "icon.png",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.88.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "dark pro gd",
+				"uiTheme": "vs-dark",
+				"path": "./themes/theme.json"
+			}
+		]
+	}
+}
