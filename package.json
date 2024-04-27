@@ -4,6 +4,7 @@
 	"description": "A batter dark theme for vscode, with Github + catppuccin",
 	"icon": "icon.png",
 	"version": "0.0.1",
+	"publisher": "DevGauravJatt",
 	"engines": {
 		"vscode": "^1.88.0"
 	},
