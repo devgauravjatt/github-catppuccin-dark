@@ -11,6 +11,13 @@
 		"type": "git",
 		"url": "https://github.com/devgauravjatt/github-catppuccin-dark"
 	},
+	"keywords": [
+		"theme",
+		"github",
+		"onedark",
+		"catppuccin",
+		"colorblind"
+	],
 	"categories": [
 		"Themes"
 	],
