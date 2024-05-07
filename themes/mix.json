@@ -1,5 +1,5 @@
 {
-	"name": "Github Catppuccin Dark Plus",
+	"name": "Github Catppuccin Dark Mix",
 	"type": "dark",
 	"colors": {
 		"focusBorder": "#c6a0f6",
@@ -20,7 +20,7 @@
 		"textLink.foreground": "#8aadf4",
 		"textPreformat.foreground": "#cad3f5",
 		"textSeparator.foreground": "#c6a0f6",
-		"activityBar.background": "#21262c",
+		"activityBar.background": "#1d2127",
 		"activityBar.foreground": "#c6a0f6",
 		"activityBar.dropBorder": "#c6a0f633",
 		"activityBar.inactiveForeground": "#6e738d",
@@ -381,7 +381,7 @@
 		"terminalCommandDecoration.defaultBackground": "#5b6078",
 		"terminalCommandDecoration.successBackground": "#a6da95",
 		"terminalCommandDecoration.errorBackground": "#ed8796",
-		"titleBar.activeBackground": "#222529",
+		"titleBar.activeBackground": "#1d2127",
 		"titleBar.activeForeground": "#cad3f5",
 		"titleBar.inactiveBackground": "#1d2127",
 		"titleBar.inactiveForeground": "#cad3f580",
